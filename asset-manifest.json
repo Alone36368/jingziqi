@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jingziqi/static/css/main.7ea2a718.css",
+    "main.css": "/jingziqi/static/css/main.5293976f.css",
     "main.js": "/jingziqi/static/js/main.46cef187.js",
     "index.html": "/jingziqi/index.html",
-    "main.7ea2a718.css.map": "/jingziqi/static/css/main.7ea2a718.css.map",
+    "main.5293976f.css.map": "/jingziqi/static/css/main.5293976f.css.map",
     "main.46cef187.js.map": "/jingziqi/static/js/main.46cef187.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ea2a718.css",
+    "static/css/main.5293976f.css",
     "static/js/main.46cef187.js"
   ]
 }
